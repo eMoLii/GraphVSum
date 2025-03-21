@@ -1,0 +1,5 @@
+This project includes code from the following Apache-licensed project:
+
+- Project Name: [RecapStorySumm-CVPR2024]
+- Original License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+- Copyright (c) [2024] [Aditya Kumar Singh and Dhruv Srivastava and Makarand Tapaswi]
