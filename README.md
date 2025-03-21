@@ -12,9 +12,9 @@ pip install -r requirements.txt
 
 ## Datasets
 
-- [BLiSS](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm)
-- [PlotSnap](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm)
-- [TVSum](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm)
+- [BLiSS](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm): This dataset comprises livestream videos from the Behance platform.
+- [PlotSnap](https://github.com/katha-ai/RecapStorySumm-CVPR2024): Specically designed for long-story summarization tasks, this dataset consists of two popular crime thriller TV series: 24 and Prison Break.
+- [TVSum](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm): It comprises 50 YouTube videos spanning 10 categories.
 
 ## Running
 
